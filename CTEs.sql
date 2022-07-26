@@ -71,3 +71,12 @@ with cte (ID, Nombre, IDPadre) as
 			
 	)
 	select * from cte
+
+
+
+
+-- This code is added just to follow up on the training for GitHub
+
+Use AdventureWorks2012
+Go
+select * from Person.EmailAddress
